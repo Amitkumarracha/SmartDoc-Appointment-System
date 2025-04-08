@@ -30,9 +30,11 @@ of medical appointments. It provides tailored functionalities for patients, doct
 
 
 ---
-```markdown
 
 ## 🗂️ Project Structure
+```markdown
+
+
 
 SmartDoc/
 │
