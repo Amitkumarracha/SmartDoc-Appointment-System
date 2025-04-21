@@ -60,5 +60,5 @@ The database connection settings are in `src/main/com/smartdoc/util/DatabaseConn
 ## Notes
 
 - This application uses plain JDBC for database operations without any ORM framework
-- All Spring annotations have been removed to make it a pure Java application
+
 - The application provides a simple terminal-based menu system for interaction
